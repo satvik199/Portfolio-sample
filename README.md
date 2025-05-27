@@ -15,3 +15,5 @@ Featured projects showcase my dual expertise in design and development, with spe
 - Micro-interactions and animations  
 
 Available for freelance opportunities and full-time roles. Let's build something amazing together!
+
+Just clone , modify and use!!!
